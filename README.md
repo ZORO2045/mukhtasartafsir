@@ -3,4 +3,4 @@
 
 • This repository contains a simple web application for listening to Quran Tafsir (interpretation) provided by various scholars.
 
-• تطبيق ويب بسيط للاستماع إلى تفسير القرآن الكريم المقدم من قبل علماء مختلفين.
+• تطبيق ويب بسيط للإستماع إلى تفسير القرآن الكريم المقدم من قبل علماء مختلفين.
